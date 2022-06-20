@@ -84,7 +84,7 @@ a:hover {
 .searchbar {
     text-align: center;
     padding-top: 20px;
-    margin-left: 60px;
+    margin-left: auto;
   }
   
 #search {
