@@ -1,5 +1,5 @@
 #  :mag_right: Landing-Page-Google :mag_right:
-> Google Landing Page is a replication of Google landing page to prectice CSS
+> Google Landing Page is a replication of Google landing page to practice CSS
 
 ## Table of contents
   - [Table of contents](#table-of-contents)
