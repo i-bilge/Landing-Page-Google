@@ -20,7 +20,7 @@ This project is created to sharpen the knowledge and use of CSS. It is a Project
 ## Features
 * Has a navbar area,
 * an input area,
-* a search icon and
+* two buttons and
 * footer part
 
 ## How to use
@@ -28,11 +28,10 @@ Click on this [link](https://i-bilge.github.io/Landing-Page-Google/)
 
 
 
-## Screenshots
+## Screenshot
 
 ![Example screenshot](./ReadmePhotos/1.PNG)
 
-![Example screenshot](./ReadmePhotos/2.PNG)
 
 
 ## Contact
